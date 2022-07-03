@@ -1,0 +1,7 @@
+/*only elements of div*/
+.container .text {
+    background: #ffff00;
+    color: #ff0000;
+    font-size: 20px;
+    text-align: center;
+}
