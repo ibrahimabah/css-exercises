@@ -1,0 +1,18 @@
+/* both elements */
+button {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+}
+
+/* first element*/
+.first {
+    background: #000000;
+    color: #ffffff;
+}
+
+/* second element*/
+.second {
+    background: #ffff00;
+    color: #000000;
+}
+
