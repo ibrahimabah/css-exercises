@@ -1,3 +1,28 @@
-p {
-    
+/* odd elements */
+.p {
+    background: #ff9694;
+    font-family: 'Verdana', 'DejaVu sans', 'sans-serif';
 }
+
+/* second element */
+#second {
+    color: blue;
+    font-size: 36px;
+}
+
+/* third element */
+.third {
+    font-size: 24px;
+}
+
+/* fourth element */
+#fourth {
+    background: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
+
+
+
