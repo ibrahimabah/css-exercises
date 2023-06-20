@@ -1,4 +1,4 @@
-/*only elements of div*/
+/*only elements of div class descendant*/
 .container .text {
     background: #ffff00;
     color: #ff0000;
