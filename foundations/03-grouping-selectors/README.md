@@ -16,7 +16,7 @@ This will help you further practice adding classes and using class selectors, so
 
 ### Self Check
 - Does each element have a unique class name?
-    ✅  "Each contains a unique class name"
+    ✅  "Each element contains a unique class name"
 
 - Did you use the grouping selector for styles that both elements share?
     ✅  "Both classes is targeted to style both elements"
