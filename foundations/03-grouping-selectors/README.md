@@ -19,7 +19,7 @@ This will help you further practice adding classes and using class selectors, so
     ✅  "Each contains a unique class name"
 
 - Did you use the grouping selector for styles that both elements share?
-    ✅  "They button is targeted to style both elements"
+    ✅  "Both classes is targeted to style both elements"
 
 - Did you make separate rules for the styles unique to each element?
     ✅  "The individual class names are targeted for styling separately"
