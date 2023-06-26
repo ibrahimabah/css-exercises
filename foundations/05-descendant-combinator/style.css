@@ -1,5 +1,5 @@
 /*only elements of div class descendant*/
-.container .text {
+div p {
     background: #ffff00;
     color: #ff0000;
     font-size: 20px;
