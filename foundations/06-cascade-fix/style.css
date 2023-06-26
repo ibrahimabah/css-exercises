@@ -1,10 +1,6 @@
 .para,
 .small-para {
-  color: hsl(0, 100%, 50%);
-}
-
-.small-para {
-  font-size: 14px;
+  color: #ff0000;
 }
 
 .para {
@@ -13,24 +9,27 @@
 
 .button {
   background-color: rgb(255, 255, 255);
-  color: rgb(0, 0, 0);
+  color: hsl(0, 0%, 0%);
   font-size: 20px;
 }
 
-.confirm {
-  background: green;
-  color: white;
-  font-weight: bold;
-} 
-
-
 div.text {
-  color: green;
+  color: hsl(120, 100%, 25%);
   font-size: 22px;
 }
 
-.text .child {
-  color: red;
+.small-para {
+  font-size: 14px;
+}
+
+#confirm-button {
+  background: hsl(120, 100%, 25%);
+  color: #ffffff;
+  font-weight: bold;
+} 
+
+div .child {
+  color: #ff0000;
   font-size: 14px;
 }
 
