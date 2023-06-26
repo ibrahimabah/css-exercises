@@ -16,5 +16,10 @@ The properties you need to add to each element are:
 
 ### Self Check
 - Did you properly chain class selectors for each rule?
+    ✅  "Class selectors have been chained properly"
+
 - Does the `proportioned` image retain its original square proportions?
+    ✅  "Yes, in all device sizes"
+
 - Does the `distorted` image end up looking squished and, well, distorted?
+    ✅  "Yes it does in all screen sizes"
