@@ -1,22 +1,22 @@
 /* odd elements */
 .odd {
     background: hsl(1, 100%, 79%);
-    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+    font-family: 'Verdana', 'DejaVu Sans',  'sans-serif';
 }
 
 /* second element */
-#even {
+#second {
     color: rgb(0, 0, 255);
     font-size: 36px;
 }
 
 /* third element */
-.first {
+.third {
     font-size: 24px;
 }
 
 /* fourth element */
-#first_even {
+#fourth {
     background: #90ee90;
     font-size: 24px;
     font-weight: bold;
