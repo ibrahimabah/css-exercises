@@ -1,17 +1,17 @@
 /* both elements */
-.inverted, .fancy {
+.both {
     font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
     font-size: 28px;
 }
 
 /* first element*/
-.inverted {
+.first {
     background: hsl(0, 0%, 0%);
     color: rgb(255, 255, 255);
 }
 
 /* second element*/
-.fancy {
+.second {
     background: #ffff00;
 }
 
