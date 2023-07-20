@@ -8,7 +8,12 @@ For this first exercise, simply edit the `style.css` file so that the divs look 
 Use this section to check your work. On _these_ projects, your goal isn't to attain 100% pixel perfection, but to use the tools you've learned to get relatively close to the desired output.
 
 - Div One and Div Three have 32px between their text and border.
+    - ✅ To add space between the elements and their border I targeted the **`padding`** property for both `selectors`.
 - Div One has 12px between it and any other element on the page.
+    - ✅ I targeted the **`margin`** property to add space between `div one` and other elements
 - There is a 48px gap between Div Two and Div Three.
+    - ✅ There is no need to change anything since **`margin-bottom`** is already applied
 - Div Three is aligned to the right.
+    - ✅ I have aligned it to the right using the **`margin`** property
 - Div Three's alignment is achieved using `margin` (and not float, flexbox, etc.).
+    - ✅ To achieve an align with the **`margin`** to the right I set the it's `margin-left` method to `auto`
