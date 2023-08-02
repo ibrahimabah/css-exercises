@@ -12,7 +12,12 @@ wide:
 
 ### Self Check
 - There is space between all items and the edge of the header (specific px amount doesn't matter here).
+    - ✅ I used the justify  property to add space between content
 - Logo is centered vertically and horizontally.
+    - ✅ The align property centers all elements
 - list-items are horizontal, and are centered vertically inside the header.
+    - ✅ The display property positions elements horizontally and justify property centers them
 - left-links and right-links are pushed all the way to the left and right, and stay at the edge of the header when the page is resized.
+    - ✅ the display property keeps elements along horizontally with the flex method
 - Your solution does not use floats, inline-block, or absolute positioning.
+    - ✅ I only applied flexbox methods of styling
